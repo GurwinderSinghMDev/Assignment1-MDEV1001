@@ -1,0 +1,73 @@
+movieID,title,studio,genres,directors,writers,actors,year,length,shortDescription,mpaRating,criticsRating
+1,Star Wars: Episode V - The Empire Strikes Back,Twentieth Century Fox,"Action, Adventure, Fantasty",Irvin Kershner,"Leigh Brackett, 
+Lawrence Kasdan,
+George Lucas","Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1980,124,"After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",PG,8.7
+2,The Matrix,Warner Bros. Pictures,"Action,
+Sci-Fi","Lana Wachowski,
+Lilly Wachowski","Lana Wachowski,
+Lilly Wachowski","Keanu Reaves,
+Laurence Fishburne,
+Carrie-Anne Moss",1999,136,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",R,8.7
+3,Star Wars: Episode IV - A New Hope,Twentieth Century Fox,"Action, Adventure, Fantasty",George Lucas,George Lucas,"Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1977,121,"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",PG,8.6
+4,Back to the Future,Universal Pictures,"Adventure,
+Comedy,
+Sci-Fi",Robert Zemeckis,"Robet Zemeckis,
+Bob Gale","Michael J. Fox,
+Christopher Lloyd,
+Lea Thompson",1985,116,"Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",PG,8.5
+5,Alien,Twentieth Century Fox,"Horror,
+Sci-Fi",Ridley Scott,"Dan O'Bannon,
+Ronald Shusett","Sigourney Weaver,
+Tom Skerritt,
+John Hurt",1979,117,The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.,R,8.5
+6,Raiders of th Lost Ark,Paramount Pictures,"Action, Adventure",Steven Spielberg,"Lawrence Kasdan, 
+George Lucas, 
+Philip Kaufman","Harrison Ford, 
+Karen Allen,
+Paul Freeman",1981,115,"In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",PG,8.4
+7,Blade Runner,Warner Bros. Pictures,"Action, Drama,
+Sci-Fi",Ridley Scott,"Hampton Fancher, 
+David Webb Peoples, 
+Philip K. Dick","Harrison Ford, 
+Rutger Hauer, 
+Sean Young",1982,117,A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.,R,8.1
+8,The Terminator,Orion Pictures,"Action,
+Sci-Fi",James Cameron,"James Cameron,
+Gale Anne Hurd,
+William Wisher","Arnold Schwarzenegger, 
+Linda Hamilton, 
+Michael Biegn",1984,107,"A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",R,8.1
+9,The Princess Bride,Twentieth Century Fox,"Adventure,
+Comedy,
+Family",Rob Reiner,William Goldman,"Cary Elwes,
+Mandy Patinkin,
+Robin Wright",1987,198,"A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",PG,8.0
+10,Star Trek II: The Wrath of Khan,Paramount Pictures,"Action,
+Adventure,
+Sci-Fi",Nicholas Meyer,"Gene Roddenberry,
+Jack B. Sowards,
+Harve Bennett","William Shatner,
+Leonard Nimoy,
+DeForest Kelley",1982,113,"With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",PG,7.7
+11,3 Idiots,Vinod Chopra Films,"Comedy, Drama",Rajkumar Hirani,"Rajkumar Hirani,Abhijit Joshi","Aamir Khan, Kareena Kapoor",2009,170,"3 Idiots is heartwarming comedy-drama that follows the journey of three friends in an engineering college as they navigate societal pressure, unconventional education , and the pursuit of their dreams.",PG,8.4
+12,Bahubali: The Beginning ,Arka Media works,"Action,Adventure,Drama",S.S Rajmouli,K.V Vijayendra Prasad,"Piranhas, Daggubati",2015,159,"Set I the fictional kingdom of Mahishmati, the movie follows the journey of a young warrior who discover his true identity and fights again the injustice and tyranny.",R,8.1
+13,Mughal-e-Azam,Sterling Investment," Drama, Romance",K. Asif,"K. Asif, Amanullah Khan","Dilip Kumar, Madhubala",1960,197,"Set in the Mughal era , this epic tale depicts the forbidden love between Prince Salim and the beautiful court dancer , Anarkali, leading to a monumental clash of loyalties. ",R,8.2
+14,Golmaal: Fun Unlimited ,Shree Ashtavinayak Cine Vision Ltd,"
+Comedy",Rohit Shetty,Neeraj Vohra ,"Ajay Devgn, Arched Warsi, Tussar Kapoor, Sherman Joshi",2006,150,"Golmaal: Fun Unlimited is a hilarious comedy about group of friends who find themselves entangled in a web of misunderstandings , mistaken identities, and chaotic situations, leading to riotous laughter. ",R,7.3
+15,Ghajini,"Geetha Arts, Reliance Entertainment ","Action, Drama, Mystery",A.R Murugadoss,A.R Murugadoss,"Aamir Khan
+Asin Thottumkal",2008,183,"Ghajini is a gripping tale of a man with anterograde amnesia seeking revenge for the murder of his loved ones. As he hunts down the culprits , he relies on Polaroid photographs and tattoos to remember key details. ",R,7.3
+16,Black,Applause Entertainment ,Drama,Sanjay Leela Bhansali,Sanjay Leela Bhansali,"Amitabh Bachchan, 
+Rani Mukerji",2005,122,"Based on the life of a deaf-blind women, Michelle McNally, the film explores her relationship with her teacher , who helps her overcome obstacles and discover her potential. ",R,8.2
+17,Veer-Zaara,Yash Raj Films ,"Drama,Romance",Yash Chopra ,Aditi Chopra,"Shah Rukh Khan 
+Rani Mukerji, Pretty Zinta",2004,192,"Veer-Zaara is an epic romance that transcends borders and time. It portrays the emotional journey of Veer and Zara, two individuals from different nations, as they face societal barriers and fight for their love. ",PG,7.8
+18,Dil Chahta Hai,Excel Entertainment,"Drama, Romance",Farhan Akhtar,Farhan Akhtar,"Aamir Khan, 
+Saif Ali Khan 
+Akshaye Khan",2001,183,"Dil Chata Hai revolves around the lives of three friends who navigate the complexities of love, friendship and personal growth. The film explores themes of camaraderie, heart-break, and self-discovery. ",R,8.1
+19,Sholay,Ramesh Sippy Film,"Action , Adventure,Comedy",Ramesh Sippy ,Salim Javed,"Amitabh Bachchan
+Dharmender",1975,204,"Two criminals Veeru and Jay , are hired by a retired police officer to capture the ruthless dacoit Gabbar Singh in the village of Ramgarh.",R,9.2
+20,Angrej,Rhythm Boyz Entertainment ,"Romance, Comedy,Drama",Simerjit Singh,Amberdeep Singh,"Amrinder Gill, Ammy Virk
+Sargon Mehta, Aditi Sharma",2015,130,"Angrej’ is a heartwarming romantic comedy set in village pre-partitioned Punjab. It follows the story of anger , a young man caught between traditional values and modernity, and his journey to find true love.",R,8.2

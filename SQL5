@@ -1,0 +1,4 @@
+SELECT *
+FROM Movies
+WHERE YEAR < 2000
+    AND criticsRating >= 8.2;

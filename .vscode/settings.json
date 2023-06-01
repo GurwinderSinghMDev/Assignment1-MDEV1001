@@ -1,0 +1,22 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "ICE3DB CONNECTION(CSV)",
+      "database": "/Users/gurwindersingh/Desktop/MDDEV1001-M2023 ICES/MDEV1001-ICE3/ICE3DB"
+    },
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "ICE3DB-Connections ",
+      "database": "/Users/gurwindersingh/Desktop/MDDEV1001-M2023 ICES/MDev1001:ICE3/ICE3DB2"
+    },
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "MDEV1001-Assignment1",
+      "database": "${workspaceFolder:MDEV1001- Assignment 1}/Assignment"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+SELECT *
+FROM Movies
+where year BETWEEN 1990 AND 2010
+    AND mpaRating = 'R';
